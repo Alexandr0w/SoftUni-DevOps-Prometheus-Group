@@ -6,5 +6,3 @@
   <b>Adriyan Gudzhev</b> takes the role “Editor”.<br/>
   <b>Kiril Kitanov</b> takes the role “Shiffler”.<br/>
   <b>Todor Kolev</b> takes the role “Styler”.<br/>
-
-  test
